@@ -12,7 +12,7 @@
 
 Приведите получившуюся команду или docker-compose-манифест.
 
-![alt text](https://github.com/username/reponame/blob/branch/path/image.png)
+![alt text](https://github.com/m5xt/bd-dev-homeworks/blob/main/06-db-02-sql/sql_1.png)
 
 ## Задача 2
 
@@ -43,6 +43,10 @@
 - описание таблиц (describe);
 - SQL-запрос для выдачи списка пользователей с правами над таблицами test_db;
 - список пользователей с правами над таблицами test_db.
+
+  ![alt text](https://github.com/m5xt/bd-dev-homeworks/blob/main/06-db-02-sql/sql_2.png)
+
+  ![alt text](https://github.com/m5xt/bd-dev-homeworks/blob/main/06-db-02-sql/sql_3.png)
 
 ## Задача 3
 
@@ -76,6 +80,9 @@
     - запросы,
     - результаты их выполнения.
 
+![alt text](https://github.com/m5xt/bd-dev-homeworks/blob/main/06-db-02-sql/sql_4.png)
+
+
 ## Задача 4
 
 Часть пользователей из таблицы clients решили оформить заказы из таблицы orders.
@@ -94,12 +101,17 @@
  
 Подсказка: используйте директиву `UPDATE`.
 
+
+![alt text](https://github.com/m5xt/bd-dev-homeworks/blob/main/06-db-02-sql/sql_5.png)
+
 ## Задача 5
 
 Получите полную информацию по выполнению запроса выдачи всех пользователей из задачи 4 
 (используя директиву EXPLAIN).
 
 Приведите получившийся результат и объясните, что значат полученные значения.
+
+![alt text](https://github.com/m5xt/bd-dev-homeworks/blob/main/06-db-02-sql/sql_6.png)
 
 ## Задача 6
 
