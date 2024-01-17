@@ -113,6 +113,9 @@
 
 ![alt text](https://github.com/m5xt/bd-dev-homeworks/blob/main/06-db-02-sql/sql_6.png)
 
+ explain показывает результат использования ресурсов компьютера при ваполнении запроса для каждой операции: процессорное временя, примерное количество будет, средняя длина строки в байтах 
+
+
 ## Задача 6
 
 Создайте бэкап БД test_db и поместите его в volume, предназначенный для бэкапов (см. задачу 1).
@@ -127,6 +130,9 @@
 
 ![alt text](https://github.com/m5xt/bd-dev-homeworks/blob/main/06-db-02-sql/dz7.png)
 ![alt text](https://github.com/m5xt/bd-dev-homeworks/blob/main/06-db-02-sql/dz8.png)
+
+
+
 
 ---
 
