@@ -125,6 +125,9 @@
 
 Приведите список операций, который вы применяли для бэкапа данных и восстановления. 
 
+![alt text](https://github.com/m5xt/bd-dev-homeworks/blob/main/06-db-02-sql/dz7.png)
+![alt text](https://github.com/m5xt/bd-dev-homeworks/blob/main/06-db-02-sql/dz8.png)
+
 ---
 
 ### Как cдавать задание
