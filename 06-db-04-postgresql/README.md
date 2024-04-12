@@ -81,11 +81,6 @@ CREATE TABLE orders_2 PARTITION OF orders FOR VALUES FROM ('0') TO ('499');
 
 Как бы вы доработали бэкап-файл, чтобы добавить уникальность значения столбца `title` для таблиц `test_database`?
 
----
-
-### Как cдавать задание
-
-Выполненное домашнее задание пришлите ссылкой на .md-файл в вашем репозитории.
-
----
-
+CREATE TABLE public.orders (
+ id integer NOT NULL,
+ title character varying(80) NOT NULL UNIQUE );
